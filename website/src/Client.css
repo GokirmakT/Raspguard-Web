@@ -1,0 +1,27 @@
+/* client.css */
+
+.clientSidebar {
+  background-color: #f7f2e8;
+  width: 22%;
+  height: 100vh;
+}
+
+.profileInfo {
+  display: flex;
+  align-items: center;
+}
+
+.profileInfo svg {
+  width: 80px;
+  height: 80px;
+}
+
+
+.clientDashboardTitle {
+  color: rgb(157, 140, 245);
+  font-weight: bold;
+}
+
+.clientDashboardText {
+  color: rgb(255, 255, 255);
+}
